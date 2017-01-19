@@ -1,0 +1,13 @@
+regions:
+name: my_drupal_theme
+type: theme
+base theme: classy
+Description: "my_drupal_theme"
+package: custom
+core: 8.x
+regions:
+  headline: headline
+  header: header
+  content: content
+  sidebar: sidebar
+  footer: footer
